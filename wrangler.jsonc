@@ -1,0 +1,1 @@
+{"name":"harvest-online","main":"worker.js","compatibility_date":"2026-10-01","durable_objects":{"bindings":[{"name":"FARM_ROOM","class_name":"FarmRoom"}]},"migrations":[{"tag":"v1","new_sqlite_classes":["FarmRoom"]}]}
